@@ -48,7 +48,7 @@ expo install @expo/vector-icons
 expo start
 or npm start it will be given over there
 ```
-Then scan the QR code using the Expo Go app on your mobile device.
+Then scan the QR code using the Expo Go app on your mobile device and when you scan this qr plese let me know asi have to run th app if you are recruiter then you have my number call me.
 ![image](https://github.com/user-attachments/assets/6b7cfb30-189d-498f-9105-92bc0933c4f8)
 ---
 
